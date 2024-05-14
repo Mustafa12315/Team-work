@@ -1,4 +1,6 @@
-﻿namespace Another_git_repository
+﻿using System;
+
+namespace Another_git_repository
 {
     internal class Program
     {
@@ -6,6 +8,7 @@
         {
             Console.WriteLine("Hello, again");
             Console.WriteLine("Yeah, Bye..");
+            Console.WriteLine("No so fast");
         }
     }
 }
