@@ -8,7 +8,8 @@ namespace Another_git_repository
         {
             Console.WriteLine("Hello, again");
             Console.WriteLine("Yeah, Bye..");
-            Console.WriteLine("No so fast");
+            Console.WriteLine("Not so fast");
+            Console.WriteLine("Sorry..");
         }
     }
 }
